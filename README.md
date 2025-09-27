@@ -16,6 +16,8 @@
 
 ---
 
+## 📊 GitHub Stats ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi09099&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnavi09099&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi09099&layout=compact&theme=radical) --- ## 📈 Contribution Graph [![Vaishnavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi09099&bg_color=0d1117&color=7fdbca&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) ---
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vaishnavi-rajawat-a22552362)
