@@ -4,7 +4,7 @@
 
 🌱 Currently building a strong foundation in **DSA using C++** to sharpen problem-solving skills.
 
-💻 Actively learning and implementing **HTML, CSS, JavaScript, React, Node.js, and MongoDB** — step by step, project by project.
+💻 Actively learning and implementing **HTML5, CSS3, Taiwind CSS, JavaScript, Python ,ReactJS, Node.js, and MongoDB** — step by step, project by project.
 
 🚀 I’ve just started my journey into serious development — focused on writing clean code, understanding real-world concepts, and building impactful projects.
 
