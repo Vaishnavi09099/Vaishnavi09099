@@ -68,6 +68,7 @@
 # 🌐 Connect 
 
 - LinkedIn: https://www.linkedin.com/in/vaishnavi-rajawat-a22552362/
+- LeetCode: https://leetcode.com/u/Vaishnavi09099/
 - Portfolio: YOUR_PORTFOLIO
 - Email: Vaishnavi09.099@gmail.com
 
