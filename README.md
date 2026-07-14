@@ -69,7 +69,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/vaishnavi-rajawat-a22552362/
 - LeetCode: https://leetcode.com/u/Vaishnavi09099/
-- Portfolio: YOUR_PORTFOLIO
+- Portfolio: https://vaishnavi-portfolio-website-dun.vercel.app/
 - Email: Vaishnavi09.099@gmail.com
 
 ---
