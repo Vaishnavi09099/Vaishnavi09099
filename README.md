@@ -30,7 +30,7 @@
 ## 💻 Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,git,github,vscode,postman,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,git,github,vscode,postman,vercel,npm,docker,redis" />
 </p>
 
 <p align="center">
@@ -42,6 +42,9 @@
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge" />
+</p>
   
 </p>
 
